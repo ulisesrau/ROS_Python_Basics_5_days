@@ -1,0 +1,7 @@
+<launch>
+    <node pkg='actions_quiz'
+        type='my_script.py'
+        name='up_down_drone'
+        output='screen'>
+    </node>
+</launch>
